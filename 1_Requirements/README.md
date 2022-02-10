@@ -9,14 +9,14 @@
    number systems
  * Provide Techniques to convert from one 
  number system to another 
- * Provide examples for the learner for     easy understanding 
+ * Provide a feature to practice the examples 
  * Conduct a test to check the understanding of the learner 
  
 
 ## Low Level Requirements
  * The Concepts,Techniques and Examples are displayed to the learner step by step from the available information about the Number Systems and the learner needs to read and learn.
  * Questions are displayed for the learner and the learner needs to enter the solution for the question
- * The entered solution is compared with the precomputed solution
+ * The learner can practice by entering the question and the solution for the question will be displayed
  
  
 ## SWOT ANALYSIS
