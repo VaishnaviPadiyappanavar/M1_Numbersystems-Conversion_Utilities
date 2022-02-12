@@ -1,5 +1,4 @@
-
-Certificates Obtained
+The following Certificates are Obtained
 * Sololearn 
 * Cisco NDG Linux
-* Screenshot of github learning
+* Screenshot of Hackerearth Points
