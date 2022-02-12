@@ -1,3 +1,6 @@
+Badges
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/19f2e53747d747a3b1edbb358ceefa26)](https://www.codacy.com/gh/VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities&amp;utm_campaign=Badge_Grade)
 # M1_Numbersystems-Conversion_Utilities
 Conversion from one number system to another 
 
