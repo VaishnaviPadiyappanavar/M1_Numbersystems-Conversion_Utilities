@@ -25,10 +25,6 @@ Clean:
 static_analysis:
 	cppcheck --enable=all $(SRC)
 
-dynamic_analysis: Build
-	valgrind ./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
-coverage:
-	gcc -fprofile-arcs -ftest-coverage $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
-	gcov -a $(call FixPath,$(PROJ_NAME).$(EXEC))
+
 
