@@ -1,6 +1,7 @@
 Badges
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/19f2e53747d747a3b1edbb358ceefa26)](https://www.codacy.com/gh/VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities&amp;utm_campaign=Badge_Grade)
+[![C/C++ CI](https://github.com/VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities/actions/workflows/c-cpp.yml)
 [![Linux-build](https://github.com/VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities/actions/workflows/Build-linux.yml)
 [![StaticCheck/cppCheck](https://github.com/VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities/actions/workflows/Static-check.yml/badge.svg)](https://github.com/VaishnaviPadiyappanavar/M1_Numbersystems-Conversion_Utilities/actions/workflows/Static-check.yml)
 # M1_Numbersystems-Conversion_Utilities
