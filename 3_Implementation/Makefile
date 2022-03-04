@@ -1,8 +1,24 @@
-Build : problem_main.c problem.c
-     gcc problem_main.c problem.c -o problem.out
+PROJ_NAME = problem
+SRC= problem_main.c problem.c
+ifdef OS
+   RM = del /q
+   FixPath = $(subst /,\,$1)
+   EXEC = exe
+else
+   ifeq ($(shell uname), Linux)
+	 RM = rm -rf
+	 FixPath = $1
+	   EXEC = out
+   endif
+endif
+
+Build :$(SRC)
+	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
 Run : Build
-     ./problem.out
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
 
 Clean:
-     rm -rf *.o *.out *.i *.s
+	$(RM) $(call FixPath,*.out)
+

@@ -13,7 +13,7 @@ long int BinarytoHex(long int);
 long int DecimaltoBinary(long int); 
 long int DecimaltoHex(long int);
 void HextoBinary(char []); 
-void HextoDecimal(char []); 
+long int HextoDecimal(char []); 
 
 
 #endif

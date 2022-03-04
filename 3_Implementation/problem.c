@@ -13,9 +13,10 @@ long int BinarytoDecimal(long int binary)
     }
      
     printf("\nEquivalent Decimal Number : %d",sum);
+    return sum;
 }
  
-void HextoDecimal(char hex[])
+long int HextoDecimal(char hex[])
 {
     int i,r=0,j=0,sum=0;
      
@@ -54,6 +55,7 @@ void HextoDecimal(char hex[])
         j++;
     }
     printf("\nEquivalent Decimal Number : %d",sum);
+    return sum;
  
 }
 long int DecimaltoBinary(long int decimal)
