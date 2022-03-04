@@ -1,5 +1,5 @@
 # Implementation
 
 # Learning Resources used for coding are
-* Geeks for Geeks
-* Code Projects
+*  Geeks for Geeks
+*  Code Projects
