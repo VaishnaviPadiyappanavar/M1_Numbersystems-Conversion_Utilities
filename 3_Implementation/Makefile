@@ -22,3 +22,6 @@ Run : Build
 Clean:
 	$(RM) $(call FixPath,*.out)
 
+static_analysis:
+	cppcheck --enable=all $(SRC)
+
