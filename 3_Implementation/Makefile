@@ -1,5 +1,5 @@
 PROJ_NAME = problem
-SRC= problem_main.c problem.c
+SRC= problem_main.c problem.c test_problem.c unity.c
 ifdef OS
    RM = del /q
    FixPath = $(subst /,\,$1)

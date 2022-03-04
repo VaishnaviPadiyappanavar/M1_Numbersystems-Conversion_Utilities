@@ -1,6 +1,7 @@
 #include "problem.h"
+extern void test_main();
 int main()
-{  
+{  /*
     printf("Are you ready to learn Number systems and conversion\n");
     printf("We will study three types of number systems and its conversion they are Decimal,Binary and Hexadecimal\n");
     printf("All of these number systems have a base\n");
@@ -58,8 +59,8 @@ int main()
         printf("\nIf you want to continue learning press 1 else press 0: \n");
         scanf("%d",&n);
  
-    }
+    }*/
  
-  
+  test_main();
 return 0;
 }
